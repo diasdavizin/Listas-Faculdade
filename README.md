@@ -34,14 +34,14 @@ lista - 2 - Exercícios de Algoritmos Sequenciais
 
 1)	Na aula passada foi solicitado para executar um programa. Altere o programa para que o usuário digite os 4 boletos que ele deve pagar, e o salário líquido que ele tem disponível e imprima:
 
-• o total de suas contas;
-• o valor que irá sobrar (ou faltar).
+       • o total de suas contas;
+       • o valor que irá sobrar (ou faltar).
 
 2)	Altere o programa para que o usuário digite os 4 boletos que ele deve pagar, e o salário bruto que ele tem disponível e lhe retorne:
 
-•	O Salário líquido (desconto de 14% em folha);  
-• O total das contas
-• O restante do salário.
+       •	O Salário líquido (desconto de 14% em folha);  
+       • O total das contas
+       • O restante do salário.
 
 3)	Faça um algoritmo/programa que receba os lados de um retângulo, calcule a área e perímetro do mesmo e mostre o resultado na tela. 
 
@@ -53,7 +53,7 @@ lista - 2 - Exercícios de Algoritmos Sequenciais
 
 Desafio: 
 
-7)O proprietário da empresa ABC LTDA precisa de um programa de computador para calcular o novo salário que seus funcionários irão receber a partir do mês que vem. Sabendo que o aumento de salário para todos os funcionários será de 25%, faça um programa que leia o valor do salário atual do funcionário e informe o seu novo salário acrescido de 25%.
+7) O proprietário da empresa ABC LTDA precisa de um programa de computador para calcular o novo salário que seus funcionários irão receber a partir do mês que vem. Sabendo que o aumento de salário para todos os funcionários será de 25%, faça um programa que leia o valor do salário atual do funcionário e informe o seu novo salário acrescido de 25%.
 _______________________________________________________________________________________________________________________________________________________________________
 
 lista - 3 - Exercícios Sequenciais
