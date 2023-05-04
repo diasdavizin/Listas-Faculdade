@@ -8,7 +8,8 @@ lista - 1 - Exercícios Sequenciais e Condicionais
 
 2) Faça um algoritmo/programa para receber um número qualquer e informar na tela se é par ou ímpar. 
 
-3) Faça um algoritmo/programa que leia dois valores inteiros A e B se os valores forem iguais deverá se somar os dois, caso contrário multiplique A por B. Ao final de qualquer um dos cálculos deve-se atribuir o resultado para uma variável C e mostrar seu conteúdo na tela. 
+3) Faça um algoritmo/programa que leia dois valores inteiros A e B se os valores forem iguais deverá se somar os dois, caso contrário multiplique A por B.
+Ao final de qualquer um dos cálculos deve-se atribuir o resultado para uma variável C e mostrar seu conteúdo na tela. 
 
 5) Faça um algoritmo/programa que imprima o dobro de um número caso ele seja positivo e o seu triplo caso seja negativo, imprimindo o resultado. 
 
@@ -18,15 +19,15 @@ lista - 1 - Exercícios Sequenciais e Condicionais
 IMC= PESO/ALTURA2
 e, a situação do peso é determinada pela tabela abaixo:
 
-IMC abaixo de 20 = Abaixo do peso
+ IMC abaixo de 20 = Abaixo do peso
 
-IMC de 20 até 25 = Peso normal
+ IMC de 20 até 25 = Peso normal
 
-IMC de 25 até 30 = Sobre peso
+ IMC de 25 até 30 = Sobre peso
 
-IMC de 30 até 40 = Obeso
+ IMC de 30 até 40 = Obeso
 
-IMC de 40 e acima = Obeso Mórbido
+ IMC de 40 e acima = Obeso Mórbido
 _______________________________________________________________________________________________________________________________________________________________________
 
 lista - 2 - Exercícios de Algoritmos Sequenciais
