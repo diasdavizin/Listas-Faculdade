@@ -107,7 +107,7 @@ lista - repetição - 1 - Exercícios de Repetição
   
        b ) A média do número de filhos. 
   
-O final da leitura de dados dar-se-á com a entrada de salários negativos. 
+       O final da leitura de dados dar-se-á com a entrada de salários negativos. 
 
 3) Faça um programa que faça a leitura de 5 valores, e para cada valor, mostre o seu dobro na tela. 
 
