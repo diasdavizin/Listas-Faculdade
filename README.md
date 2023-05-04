@@ -19,9 +19,13 @@ IMC= PESO/ALTURA2
 e, a situação do peso é determinada pela tabela abaixo:
 
 IMC abaixo de 20 = Abaixo do peso
+
 IMC de 20 até 25 = Peso normal
+
 IMC de 25 até 30 = Sobre peso
+
 IMC de 30 até 40 = Obeso
+
 IMC de 40 e acima = Obeso Mórbido
 _______________________________________________________________________________________________________________________________________________________________________
 
