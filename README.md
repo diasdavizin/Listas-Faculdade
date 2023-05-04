@@ -35,12 +35,15 @@ lista - 2 - Exercícios de Algoritmos Sequenciais
 1)	Na aula passada foi solicitado para executar um programa. Altere o programa para que o usuário digite os 4 boletos que ele deve pagar, e o salário líquido que ele tem disponível e imprima:
 
        • o total de suas contas;
+       
        • o valor que irá sobrar (ou faltar).
 
 2)	Altere o programa para que o usuário digite os 4 boletos que ele deve pagar, e o salário bruto que ele tem disponível e lhe retorne:
 
        •	O Salário líquido (desconto de 14% em folha);  
+       
        • O total das contas
+       
        • O restante do salário.
 
 3)	Faça um algoritmo/programa que receba os lados de um retângulo, calcule a área e perímetro do mesmo e mostre o resultado na tela. 
