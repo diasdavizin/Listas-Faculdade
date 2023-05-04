@@ -13,11 +13,11 @@ lista - 1 - Exercícios Sequenciais e Condicionais
 
 5) Faça um algoritmo/programa que imprima o dobro de um número caso ele seja positivo e o seu triplo caso seja negativo, imprimindo o resultado. 
 
-      >= 0 e <3 = Reprovado
+       >= 0 e <3 = Reprovado
 
-      >= 3 e <7 = Exame
+       >= 3 e <7 = Exame
 
-      >= 7 e <= 10 = Aprovado
+       >= 7 e <= 10 = Aprovado
 
 6) Faça um algoritmo/programa  que receba (leia) 3 notas de um aluno, calcule e mostre uma mensagem de acordo com sua média:
  
