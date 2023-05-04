@@ -63,18 +63,18 @@ lista - 3 - Exercícios Sequenciais
 
 1) Faça um Algoritmo/programa que Receba um número positivo, calcule e mostre:
 
-a) O número digitado ao quadrado
+       a) O número digitado ao quadrado
 
-b) O número digitado ao cubo
+       b) O número digitado ao cubo
 
-c) A raiz quadrada do número digitado
+       c) A raiz quadrada do número digitado
 
-d) A raiz cúbica do número digitado.
+       d) A raiz cúbica do número digitado.
 
 2) Faça um Algoritmo/programa que, tendo como dados de entrada a altura (H - em metros) de um homem, calcule e apresente seu peso ideal
 utilizando a seguinte fórmula:
 
-Peso ideal (P) = (72,7 * H) – 58.
+    Peso ideal (P) = (72,7 * H) – 58.
 
 3) Faça um Algoritmo/programa que receba a cotação do dólar em reais, e um valor que o usuário possui em dólares. Imprima este valor em reais.
 
@@ -82,19 +82,19 @@ Peso ideal (P) = (72,7 * H) – 58.
 
 5. Faça um Algoritmo que solicite ao usuário que informe os coeficientes a,b e c de uma equação de segundo grau, e que imprima as raízes desta equação (considere que os valores informados sempre retornarão raízes reais para a equação).
 
-Delta = b2 – 4 ac
+       Delta = b2 – 4 ac
 
-X1 = - b + sqrt (delta/2a
+       X1 = - b + sqrt (delta/2a
 
-X2 = - b – sqrt(delta) /2a
+       X2 = - b – sqrt(delta) /2a
 
 6. Faça um Algoritmo/programa que receba dois números e mostre o maior e o menor. Emita uma mensagem, caso os dois sejam iguais.
 
 7. Faça um Algoritmo/programa que receba as duas notas de um aluno, calcule sua média, e que imprima a sua situação:
 
->= 7 -> Aprovado
+       >= 7 -> Aprovado
 
-< 7 -> Reprovado
+       < 7 -> Reprovado
 _______________________________________________________________________________________________________________________________________________________________________
 
 lista - repetição - 1 - Exercícios de Repetição
@@ -103,9 +103,9 @@ lista - repetição - 1 - Exercícios de Repetição
 
 2) A prefeitura de uma cidade fez uma pesquisa entre os seus habitantes, coletando dados sobre o salário e o número de filhos. A prefeitura deseja saber: 
   
-a ) A média do salário da população; 
+       a ) A média do salário da população; 
   
-b ) A média do número de filhos. 
+       b ) A média do número de filhos. 
   
 O final da leitura de dados dar-se-á com a entrada de salários negativos. 
 
