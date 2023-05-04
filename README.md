@@ -13,13 +13,13 @@ lista - 1 - Exercícios Sequenciais e Condicionais
 
 5) Faça um algoritmo/programa que imprima o dobro de um número caso ele seja positivo e o seu triplo caso seja negativo, imprimindo o resultado. 
 
+6) Faça um algoritmo/programa  que receba (leia) 3 notas de um aluno, calcule e mostre uma mensagem de acordo com sua média:
+
        >= 0 e <3 = Reprovado
 
        >= 3 e <7 = Exame
 
        >= 7 e <= 10 = Aprovado
-
-6) Faça um algoritmo/programa  que receba (leia) 3 notas de um aluno, calcule e mostre uma mensagem de acordo com sua média:
  
 7) Construa um algoritmo/programa para determinar se o indivíduo está com um peso favorável. Essa situação é determinada através do IMC (Índice de Massa Corpórea), que é definida como sendo a relação entre o peso (PESO – em kg) e o quadrado da Altura (ALTURA – em m) do indivíduo. Ou seja,
 IMC= PESO/ALTURA2
