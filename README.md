@@ -1,6 +1,6 @@
 # ListasFaculdade
 Listas da faculdade feitas na linguagem java.
-_______________________________________________________________________________________________________________________________________________________________________
+#
 
 lista - 1 - Exercícios Sequenciais e Condicionais
 
@@ -34,7 +34,7 @@ e, a situação do peso é determinada pela tabela abaixo:
      IMC de 30 até 40 = Obeso
 
      IMC de 40 e acima = Obeso Mórbido
-_______________________________________________________________________________________________________________________________________________________________________
+#
 
 lista - 2 - Exercícios de Algoritmos Sequenciais
 
@@ -63,7 +63,7 @@ lista - 2 - Exercícios de Algoritmos Sequenciais
 Desafio: 
 
 7) O proprietário da empresa ABC LTDA precisa de um programa de computador para calcular o novo salário que seus funcionários irão receber a partir do mês que vem. Sabendo que o aumento de salário para todos os funcionários será de 25%, faça um programa que leia o valor do salário atual do funcionário e informe o seu novo salário acrescido de 25%.
-_______________________________________________________________________________________________________________________________________________________________________
+# 
 
 lista - 3 - Exercícios Sequenciais
 
@@ -101,7 +101,7 @@ utilizando a seguinte fórmula:
        >= 7 -> Aprovado
 
        < 7 -> Reprovado
-_______________________________________________________________________________________________________________________________________________________________________
+# 
 
 lista - repetição - 1 - Exercícios de Repetição
 
